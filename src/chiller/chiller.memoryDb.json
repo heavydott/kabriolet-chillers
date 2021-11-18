@@ -7,7 +7,10 @@
     "power": 123,
     "current": 219,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "e7af5f30-0064-4c1f-824c-5a9aaad23f33",
@@ -17,7 +20,10 @@
     "power": 159,
     "current": 288,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "a39df86f-d8a3-4510-893b-6dfba8f669dd",
@@ -27,7 +33,10 @@
     "power": 189,
     "current": 341,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "27cb67d5-4b40-4f70-9c1b-64ecd21860b0",
@@ -37,7 +46,10 @@
     "power": 233,
     "current": 419,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "1894df12-2bf3-4c5a-8037-abb76fcb6410",
@@ -47,7 +59,10 @@
     "power": 254,
     "current": 479,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "11eeb2fe-7468-480f-922e-9077236c2ae4",
@@ -57,7 +72,10 @@
     "power": 285,
     "current": 507,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "0b1a6d83-4be3-4196-a69f-a3f0a66cd807",
@@ -67,7 +85,10 @@
     "power": 319,
     "current": 578,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "8a50ee17-a65c-41be-9778-e0fb29e045b8",
@@ -77,7 +98,10 @@
     "power": 379,
     "current": 690,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   },
   {
     "id": "b2771315-0582-4c49-b0c4-ef569565ac57",
@@ -87,6 +111,9 @@
     "power": 3464,
     "current": 838,
     "water_temperature": 7,
-    "outdoor_temperature": 35
+    "outdoor_temperature": 35,
+    "mixture_flow": 66,
+    "pressure_drop": 40,
+    "price": 123
   }
 ]
