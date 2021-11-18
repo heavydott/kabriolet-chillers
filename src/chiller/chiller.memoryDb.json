@@ -1,5 +1,6 @@
 [
   {
+    "id": "802b6db6-d48d-4eef-a1ee-545bc0812cf4",
     "name": "TASD110.1AC1",
     "fluid": 0,
     "cooling_capacity": 385,
@@ -9,6 +10,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "e7af5f30-0064-4c1f-824c-5a9aaad23f33",
     "name": "TASD145.1AC1",
     "fluid": 0,
     "cooling_capacity": 505,
@@ -18,6 +20,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "a39df86f-d8a3-4510-893b-6dfba8f669dd",
     "name": "TASD170.1AC1",
     "fluid": 0,
     "cooling_capacity": 601,
@@ -27,6 +30,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "27cb67d5-4b40-4f70-9c1b-64ecd21860b0",
     "name": "TASD210.1AC1",
     "fluid": 0,
     "cooling_capacity": 730,
@@ -36,6 +40,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "1894df12-2bf3-4c5a-8037-abb76fcb6410",
     "name": "TASD230.2AC1",
     "fluid": 0,
     "cooling_capacity": 808,
@@ -45,6 +50,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "11eeb2fe-7468-480f-922e-9077236c2ae4",
     "name": "TASD260.2AC1",
     "fluid": 0,
     "cooling_capacity": 909,
@@ -54,6 +60,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "0b1a6d83-4be3-4196-a69f-a3f0a66cd807",
     "name": "TASD285.2AC1",
     "fluid": 0,
     "cooling_capacity": 1001,
@@ -63,6 +70,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "8a50ee17-a65c-41be-9778-e0fb29e045b8",
     "name": "TASD345.2AC1",
     "fluid": 0,
     "cooling_capacity": 1210,
@@ -72,6 +80,7 @@
     "outdoor_temperature": 35
   },
   {
+    "id": "b2771315-0582-4c49-b0c4-ef569565ac57",
     "name": "TASD405.2AC1",
     "fluid": 0,
     "cooling_capacity": 1425,

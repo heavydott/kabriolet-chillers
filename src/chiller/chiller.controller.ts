@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import {Controller, Get, Param} from '@nestjs/common';
 import { ChillerService } from './chiller.service';
 
 @Controller('chillers')
@@ -8,5 +8,10 @@ export class ChillerController {
     @Get()
     getChillers() {
         return this.chillerService.getChillers();
+    }
+
+    @Get(':id')
+    getChiller(@Param() params) {
+        return this.chillerService.getChiller(params.id);
     }
 }
